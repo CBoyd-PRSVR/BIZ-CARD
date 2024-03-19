@@ -1,0 +1,19 @@
+body{
+    margin: 20px;
+}
+
+.avatar{
+    width: 150px;
+    border-radius: 10px;
+    
+}
+ 
+ .card{
+    
+    padding: 20px;
+    display: flex;
+ }
+  
+ .border-blue{
+    border: 5px dotted rgb(114, 114, 246);
+ }
