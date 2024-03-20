@@ -1,19 +1,30 @@
 body{
     margin: 20px;
+    font-style: Verdana, Tahoma, Sans-serif;
 }
 
 .avatar{
     width: 150px;
-    border-radius: 10px;
+    border-radius: 10%;
     
 }
  
  .card{
-    
+    justify-content: space-around;
     padding: 20px;
     display: flex;
+    width: 400px;
+    margin: 0 auto;
+    background: peachpuff;
+    text-align: center;
+    border-bottom: 6px outset lawngreen;
+    color:black;
+ }
+
+ .fun{
+    color:green;
  }
   
- .border-blue{
-    border: 5px dotted rgb(114, 114, 246);
- }
+ 
+
+ 
